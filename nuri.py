@@ -5,7 +5,7 @@ st.set_page_config(page_title="Trilha AutoData AI", page_icon="🚀", layout="ce
 
 # Título Principal e Introdução
 st.title("🚀 Trilha de Aprendizado: Automação & Big Data")
-st.subheader("O combo perfeito: Dominar o assunto, ser admirado e se divertir.")
+st.subheader("O combo perfeito: Dominar o assunto, resolver problemas e se divertir.")
 st.markdown("---")
 
 st.markdown("""
